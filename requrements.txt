@@ -1,7 +1,7 @@
 numpy==1.24.1
 streamlit==1.17.0
 pickle5==0.0.10
-streamlit-option-menu
+streamlit-option-menu == 0.3.2
 requests
 image
 re
