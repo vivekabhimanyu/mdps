@@ -1,8 +1,12 @@
-streamlit
+numpy==1.24.1
+streamlit==1.17.0
+pickle5==0.0.10
 streamlit-option-menu
 requests
-pandas
+image
 re
-pickle
-time
 sqlite3
+time
+bytesio
+streamlit_lottie
+
